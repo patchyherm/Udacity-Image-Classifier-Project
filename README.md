@@ -26,4 +26,8 @@ Having implemented argument parser for this project, there are a number of optio
 
 •	**Set a target for accuracy when training:** '--tgt', type = float, default = 1, help = 'optional accuracy target for training; will supersede epochs if met first; 0 <= tgt <= 1 '
 
-**NB**: The notebook included is not needed for functionality, but I've included it as it serves as an outline for the project and is where most of the code was generated and testing advanced. 
+**NB**: 
+
+The notebook included is not needed for functionality, but I've included it as it serves as an outline for the project and is where most of the code was generated and testing advanced. 
+
+The image directory has not been included due to it's large size but can be found through ImageNet.
