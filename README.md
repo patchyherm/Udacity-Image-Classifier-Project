@@ -1,4 +1,4 @@
-# Image Classifier Project
+# Project: Creating an Image Classifier
 
 Having implemented argument parser for this project, there are a number of optional arguments that can be input through the command line so as to customise the model. See below:
 
